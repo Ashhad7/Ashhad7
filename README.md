@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashhad7
-- 👀 I’m interested in Web Developement
+- 👀 I’m interested in Web Developement and Blockchain developement
 - 🌱 I’m currently learning Advanced Javascript
 - 💞️ I’m looking to collaborate on any related projects
 - 📫 You can reach out on ashhadrehman7@gmail.com
