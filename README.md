@@ -83,6 +83,6 @@ Currently diving deep into <b>Ethereum</b>, <b>Smart Contracts</b>, and <b>Block
 ---
 
 <p align="center">
-  💡 *“Building a decentralized future — one block at a time.”* ⚡
+  💡 *“Building a decentralized future one block at a time.”* ⚡
 </p>
 
