@@ -35,6 +35,24 @@ Four contracts (`EscrowFactory`, `Escrow`, `ArbitratorPool`, `ReputationRegistry
 
 **Solidity · Hardhat · ethers.js · React** · 41 passing tests · Live on Sepolia
 
+---
+
+## ChainWork on Sepolia
+
+The system is deployed and has been exercised end to end on testnet.
+
+| | |
+|---|---|
+| **EscrowFactory** | [`0x0f899f...74ba52`](https://sepolia.etherscan.io/address/0x0f899fCAa4a7E4BD5a95e104231116B4A074ba52) |
+| **Escrows created** | 3 |
+| **Paths exercised** | Fund, Approve Milestone, Raise Dispute |
+
+Two of the escrows show the full lifecycle: one funded and settled through
+milestone approval, one funded and escalated to dispute.
+
+- [Milestone approval flow](https://sepolia.etherscan.io/address/0x9F4d657f7e85BD9cBe1BC20f2464d8AB8a6bfA9D)
+- [Dispute flow](https://sepolia.etherscan.io/address/0x772822dd4936D94cC3be3C0a5b8A7bBB74536f52)
+
 [Repository](https://github.com/Ashhad7/ChainWork) 
 
 ### lending-vault
@@ -78,9 +96,3 @@ Full stack marketplace for minting and trading ERC-721 tokens, with IPFS metadat
 
 ---
 
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashhad7&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide=issues" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashhad7&layout=compact&theme=dark&hide_border=true&langs_count=6" width="330"/>
-</p>
